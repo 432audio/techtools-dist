@@ -1,0 +1,6 @@
+{
+  "versionCode": 80,
+  "versionName": "0.0.80",
+  "apkUrl": "https://github.com/432audio/techtools-dist/releases/download/v0.0.80/Techtools-0.0.80-release.apk",
+  "notes": "App self-update support — Techtools can now update itself. Future versions install with one tap."
+}
