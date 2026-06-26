@@ -1,6 +1,6 @@
 {
-  "versionCode": 83,
-  "versionName": "0.0.83",
-  "apkUrl": "https://github.com/432audio/techtools-dist/releases/download/v0.0.83/Techtools-0.0.83-release.apk",
-  "notes": "Self-update test — new full-screen update pop-up. Tap UPDATE NOW to install."
+  "versionCode": 84,
+  "versionName": "0.0.84",
+  "apkUrl": "https://github.com/432audio/techtools-dist/releases/download/v0.0.84/Techtools-0.0.84-release.apk",
+  "notes": "Cleaner layout — DMX, Hum Finder and Cable Test moved into their own toolbar above the Function Generators panel."
 }
