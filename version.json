@@ -1,6 +1,6 @@
 {
-  "versionCode": 84,
-  "versionName": "0.0.84",
-  "apkUrl": "https://github.com/432audio/techtools-dist/releases/download/v0.0.84/Techtools-0.0.84-release.apk",
-  "notes": "Cleaner layout — DMX, Hum Finder and Cable Test moved into their own toolbar above the Function Generators panel."
+  "versionCode": 85,
+  "versionName": "0.0.85",
+  "apkUrl": "https://github.com/432audio/techtools-dist/releases/download/v0.0.85/Techtools-0.0.85-release.apk",
+  "notes": "DMX Monitor now shows a clear on-screen prompt to power on your wireless 432audio DMX Node while it searches."
 }
