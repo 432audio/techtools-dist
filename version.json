@@ -1,6 +1,6 @@
 {
-  "versionCode": 81,
-  "versionName": "0.0.81",
-  "apkUrl": "https://github.com/432audio/techtools-dist/releases/download/v0.0.81/Techtools-0.0.81-release.apk",
-  "notes": "Test update — confirms in-app self-update works end to end."
+  "versionCode": 83,
+  "versionName": "0.0.83",
+  "apkUrl": "https://github.com/432audio/techtools-dist/releases/download/v0.0.83/Techtools-0.0.83-release.apk",
+  "notes": "Self-update test — new full-screen update pop-up. Tap UPDATE NOW to install."
 }
